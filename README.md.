@@ -2,6 +2,12 @@
 
 This program simulates investment options based on risk tolerance and provides personalized advice. It calculates returns, adjusts for inflation and taxes, and provides recommendations on whether to diversify investments.
 
+## Features
+- Collect user data: investment amount, duration, and risk tolerance.
+- Calculate investment returns over time with fluctuations.
+- Calculate net profitability considering inflation and taxes.
+- Provide investment advice and recommendations based on results.
+
 ## How to Run
 Clone or download the repository, then run the script using Python:
 
